@@ -1,7 +1,6 @@
 ---
-layout: default
 title: Research
-permalink: /research/
+layout: page
 nav_order: 1
 ---
 

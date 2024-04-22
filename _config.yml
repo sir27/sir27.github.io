@@ -19,14 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Samantha Reig
-email: sreig26@gmail.com
+email:
 description: >- # this means to ignore newlines until "baseurl:"
   Samantha Reig's professional website.
 domain: sir27.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://sir27.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: samaranthar
-github_username: sir27
+github_username:
 
 # Build settings
 theme: minima

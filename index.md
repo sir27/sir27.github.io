@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Sam is smiling at the camera and wearing a blue sweater](/assets/img/sam-allgreen.jpg)
+<img src = "/assets/img/sam-allgreen.jpg" width=100 alt="Sam smiles for a selfie against a green backdrop">
 
 _Human-computer interaction (HCI) and human-robot interaction (HRI) researcher_
 

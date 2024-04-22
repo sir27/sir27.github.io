@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Lab
 permalink: /lab/
 nav_order: 2
@@ -15,7 +15,7 @@ We are located on the third floor of Southwick Hall.
 
 Lab construction progress:
 
-![Mirabel from Disney's Encanto points to a chest of drawers, outdoor tile flooring, and doors lined up along a balcony walk; each object moves expressively in response to her gesture](https://i.makeagif.com/media/10-03-2022/XyTZ8H.gif)
+<img alt = "Mirabel from Disney's Encanto points to a chest of drawers, outdoor tile flooring, and doors lined up along a balcony walk; each object moves expressively in response to her gesture" src = "https://i.makeagif.com/media/10-03-2022/XyTZ8H.gif" width = 200px>
 
 🗃️ DRAWERS! 🔜
 
