@@ -1,6 +1,7 @@
 ---
 title: Research
 layout: page
+permalink: /research/
 nav_order: 1
 ---
 
@@ -10,10 +11,20 @@ AI agents and robots can behave in many ways that humans cannot. One capability 
 
 ### Imagining smart futures
 
+(Under construction)
+
 ### Agents in care networks
+
+(Under construction)
 
 ### Augmented reality-enabled co-located play
 
+(Under construction)
+
 ### Multi-robot sequential interactions
+
+(Under construction)
+
+### _What else?_
 
 I am interested in all things people + technology + interpersonal outcomes, and welcome collaborations proposals that sit anywhere in, or intersect with, that space.
