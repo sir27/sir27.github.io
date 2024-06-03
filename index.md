@@ -17,7 +17,7 @@ My research interests include artificial intelligence (AI) embodiment in sociall
 
 I received my Ph.D. in human-computer interaction from the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu/) at Carnegie Mellon University, where I was advised by Jodi Forlizzi and Aaron Steinfeld. My research has been supported by the National Science Foundation and a [NASA fellowship](https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstrf-2019/).
 
-A full list of publications is available on my [CV]() and on my [Google Scholar](https://scholar.google.com/citations?user=bn1UzGAAAAAJ) page.
+A full list of publications is available on my [CV](/assets/files/SReig-full%20cv-2024june.pdf) and on my [Google Scholar](https://scholar.google.com/citations?user=bn1UzGAAAAAJ) page.
 
 ### Get in touch
 
