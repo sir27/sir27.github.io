@@ -50,7 +50,7 @@ In general, it is a good idea to be explicit and concise about what you're looki
 
 #### Should I email a bunch of professors with the same text?
 
-No! It is extremely obvious when students copy-paste the same message, attempting to cover several different topical bases in one go, and send it out indescriminately. Messages like this are easy to categorize as "mass-email spam" and are swiftly ignored. If you are genuinely interested in working with multiple professors, you can of course work off of an email template that you create for yourself, but your message needs to send [honest signals](https://en.wikipedia.org/wiki/Signalling_theory) that you have put more thought into it than simply discovering the professor's existence and looking at their keywords.
+No! It is extremely obvious when students copy-paste the same message, attempting to cover several different topical bases in one go, and send it out indescriminately. Messages like this are easy to categorize as "mass-email spam" and are swiftly ignored. If you are genuinely interested in working with multiple professors, you can of course work off of an email template that you create for yourself, but your message needs to send make it clear that you have put more thought into reaching out than simply discovering the professor's existence and looking at their keywords.
 
 ---
 
