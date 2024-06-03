@@ -5,7 +5,9 @@
 layout: home
 ---
 
-<img src = "/assets/img/sam-allgreen.jpg" width=100 alt="Sam smiles for a selfie against a green backdrop">
+<img src = "/assets/img/sam-headshot.png" height=200 alt="Headshot photo of Sam Reig.">
+
+_Samantha (Sam) Reig --- she/her --- Sam_Reig@uml.edu_
 
 _Human-computer interaction (HCI) and human-robot interaction (HRI) researcher_
 
@@ -15,4 +17,14 @@ My research interests include artificial intelligence (AI) embodiment in sociall
 
 I received my Ph.D. in human-computer interaction from the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu/) at Carnegie Mellon University, where I was advised by Jodi Forlizzi and Aaron Steinfeld. My research has been supported by the National Science Foundation and a [NASA fellowship](https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstrf-2019/).
 
-A full list of publications is available on [CV]() and on my [Google Scholar](https://scholar.google.com/citations?user=bn1UzGAAAAAJ) page.
+A full list of publications is available on my [CV]() and on my [Google Scholar](https://scholar.google.com/citations?user=bn1UzGAAAAAJ) page.
+
+### Get in touch
+
+Email is the best way to reach me.
+
+- If we are already in a Slack workspace together, feel free to reach out through a DM.
+- You can also find me on LinkedIn and Twitter, but my response times there are slower than email.
+- If you are at UMass Lowell: I leave my office door open as often as possible -- stop on by!
+
+I am interested in all things people + technology + interpersonal outcomes, and welcome collaborations proposals that sit anywhere in, or intersect with, that space.

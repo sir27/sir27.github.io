@@ -26,12 +26,14 @@ domain: sir27.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://sir27.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: samaranthar
+linkedin_username: samanthaireig
 github_username:
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-scholar
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -51,3 +53,17 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Scholar settings
+scholar:
+  style: acm
+  locale: en
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: "{{reference}}"
+  replace_strings: true
+  join_strings: true
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+  query: "@*"

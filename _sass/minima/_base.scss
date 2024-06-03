@@ -256,3 +256,30 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+
+//NEW STYLES
+#bibtex_display .bibtexentry {
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#bibtex_display .title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#bibtex_display .author {
+  font-size: 16px;
+  color: #333;
+}
+
+#bibtex_display .year {
+  font-size: 14px;
+  color: #666;
+}
+
+#bibtex_display .journal {
+  font-size: 16px;
+  font-style: italic;
+}
