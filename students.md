@@ -17,7 +17,7 @@ I am actively recruiting students for all of these projects. If you are a prospe
 
 #### Prospective PhD student
 
-I am looking for PhD students to start in fall 2024 or later. Please send me an email with your CV/resume, an unofficial academic transcript, and an explanation of your interest in research (see the "Advice for getting in touch" section below).
+I am looking for PhD students to start in spring 2025 or later. Please send me an email with your CV/resume, an unofficial academic transcript, and an explanation of your interest in research (see the "Advice for getting in touch" section below).
 
 You will also need to [submit an application to the university](https://www.uml.edu/sciences/computer-science/programs/doctorate.aspx) and mention my name in your application. In your statement, discuss your specific research interests (remember: it’s a starting point, not a promise!) and describe why you want to pursue a PhD. Feel free to reach out to me at any point during your application process.
 
@@ -27,7 +27,7 @@ We admit students on a rolling basis, and they can start in fall or spring. The 
 
 #### MS student already at UMass Lowell
 
-I advise MS students on independent studies for course credit, supervise their theses, and pay them as RAs. Send me an email with your CV and a brief description of your research interests. If you have no prior experience with HCI or with user studies, I will probably recommend that you take HCI, HRI, or a related class before applying for a research position.
+I advise MS students on independent studies for course credit and supervise their theses (I do not currently have RA positions for MS students). Send me an email with your CV and a brief description of your research interests. If you have no prior experience with HCI or with user studies, I will probably recommend that you take HCI, HRI, or a related class before applying for a research position.
 
 #### Undergraduate student already at UMass Lowell
 
