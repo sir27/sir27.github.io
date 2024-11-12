@@ -17,7 +17,7 @@ I am recruiting students for projects on all of these topics. If you are a prosp
 
 #### Prospective PhD student
 
-I am looking for PhD students to start in Fall 2025. Please send me an email with your CV/resume, an unofficial academic transcript, and an explanation of your interest in research (see the "Advice for getting in touch" section below). If there's a potential advising match, I will recommend you apply to the PhD program. 
+I am looking for PhD students to start in Fall 2025. Please send me an email with your CV/resume, an unofficial academic transcript, and an explanation of your interest in research (see the "Advice for getting in touch" section below). The more detail you can give about how your experience and/or research interests align with my work, the better -- but you certainly don't need to write a novel. If there's a potential advising match, I will recommend that you apply to the PhD program. 
 
 To apply, you will need to [submit an application to the university](https://www.uml.edu/sciences/computer-science/programs/doctorate.aspx) and mention my name in your application. In your statement, discuss your specific research interests (remember: it’s a starting point, not a promise!) and describe why you want to pursue a PhD. Feel free to reach out to me at any point during your application process.
 
