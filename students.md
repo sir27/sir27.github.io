@@ -4,26 +4,28 @@ title: For Students
 permalink: /students/
 ---
 
-The following are projects I am working on in 2024-2025:
+The following are areas I am working in in 2024-2025:
 
 - Identity presentation for language-capable robots in smart environments
 - Healthy aging and the future of tech support
 - Situational awareness, identity, and well-being in the age of distributed collaboration
 - Creativity, collaboration, and expressivity with generative AI
 
-I am actively recruiting students for all of these projects. If you are a prospective student, here are some ways to work with me (categorized by level):
+I am recruiting students for projects on all of these topics. If you are a prospective student, here are some ways to work with me (categorized by level):
 
 ### If you are a(n)...
 
 #### Prospective PhD student
 
-I am looking for PhD students to start in spring 2025 or later. Please send me an email with your CV/resume, an unofficial academic transcript, and an explanation of your interest in research (see the "Advice for getting in touch" section below).
+I am looking for PhD students to start in Fall 2025. Please send me an email with your CV/resume, an unofficial academic transcript, and an explanation of your interest in research (see the "Advice for getting in touch" section below). If there's a potential advising match, I will recommend you apply to the PhD program. 
 
-You will also need to [submit an application to the university](https://www.uml.edu/sciences/computer-science/programs/doctorate.aspx) and mention my name in your application. In your statement, discuss your specific research interests (remember: it’s a starting point, not a promise!) and describe why you want to pursue a PhD. Feel free to reach out to me at any point during your application process.
+To apply, you will need to [submit an application to the university](https://www.uml.edu/sciences/computer-science/programs/doctorate.aspx) and mention my name in your application. In your statement, discuss your specific research interests (remember: it’s a starting point, not a promise!) and describe why you want to pursue a PhD. Feel free to reach out to me at any point during your application process.
 
 Most PhD students have a small amount of relevant (i.e., HCI, robotics, or HCI-/robotics-adjacent) research experience before they apply. Not all do, and this is not a requirement.
 
 We admit students on a rolling basis, and they can start in fall or spring. The [UML CIS Graduate Program website](https://www.cs.uml.edu/~gcoord/index.html) is a useful resource for information about the application progress, the graduate curricula, etc.
+
+A note for prospective PhD students: Faculty receive an enormous volume of cold emails from students looking for research positions. I read all emails I receive, but sometimes several days later, and I am not able to respond with time and care to all of them. If you believe there is genuinely a close fit between your goals and a position that I am recruiting for and you have not heard back from me, then I may have simply missed your email, and you should feel free to nudge it. 
 
 #### MS student already at UMass Lowell
 
