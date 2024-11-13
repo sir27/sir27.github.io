@@ -17,15 +17,15 @@ I am recruiting students for projects on all of these topics. If you are a prosp
 
 #### Prospective PhD student
 
-I am looking for PhD students to start in Fall 2025. Please send me an email with your CV/resume, an unofficial academic transcript, and an explanation of your interest in research (see the "Advice for getting in touch" section below). The more detail you can give about how your experience and/or research interests align with my work, the better -- but you certainly don't need to write a novel. If there's a potential advising match, I will recommend that you apply to the PhD program. 
+> **_Special note for students interested in a Fall 2025 start:_**  While UMass Lowell admits graduate students on a rolling basis, I strongly recommend that students who are interested in working with me apply by **December 31, 2024** to leave ample time for review.
 
-To apply, you will need to [submit an application to the university](https://www.uml.edu/sciences/computer-science/programs/doctorate.aspx) and mention my name in your application. In your statement, discuss your specific research interests (remember: it’s a starting point, not a promise!) and describe why you want to pursue a PhD. Feel free to reach out to me at any point during your application process.
+I am looking for PhD students to start in Fall 2025.  To apply to work with me, you will need to [submit an application to the university](https://www.uml.edu/sciences/computer-science/programs/doctorate.aspx) and mention my name in your application. In your statement, discuss your specific research interests (remember: it’s a starting point, not a promise!) and describe why you want to pursue a PhD. 
 
 Most PhD students have a small amount of relevant (i.e., HCI, robotics, or HCI-/robotics-adjacent) research experience before they apply. Not all do, and this is not a requirement.
 
 We admit students on a rolling basis, and they can start in fall or spring. The [UML CIS Graduate Program website](https://www.cs.uml.edu/~gcoord/index.html) is a useful resource for information about the application progress, the graduate curricula, etc.
 
-A note for prospective PhD students: Faculty receive an enormous volume of cold emails from students looking for research positions. I read all emails I receive, but sometimes several days later, and I am not able to respond with time and care to all of them. If you believe there is genuinely a close fit between your goals and a position that I am recruiting for and you have not heard back from me, then I may have simply missed your email, and you should feel free to nudge it. 
+If you are unsure whether you want to apply, feel free to reach out. When you do, please include your CV/resume, an unofficial academic transcript, and an explanation of your interest in research (see the "Advice for getting in touch" section below). The more detail you can give about how your experience and/or research interests align with my work, the better. I cannot assess your likelihood of being admitted to program, but I can recommend that you apply if I think there is potential for an advising match if you are admitted.
 
 #### MS student already at UMass Lowell
 
