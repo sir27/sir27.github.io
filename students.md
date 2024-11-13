@@ -25,7 +25,7 @@ Most PhD students have a small amount of relevant (i.e., HCI, robotics, or HCI-/
 
 We admit students on a rolling basis, and they can start in fall or spring. The [UML CIS Graduate Program website](https://www.cs.uml.edu/~gcoord/index.html) is a useful resource for information about the application progress, the graduate curricula, etc.
 
-If you are unsure whether you want to apply, feel free to reach out. When you do, please include your CV/resume, an unofficial academic transcript, and an explanation of your interest in research (see the "Advice for getting in touch" section below). The more detail you can give about how your experience and/or research interests align with my work, the better. I cannot assess your likelihood of being admitted to program, but I can recommend that you apply if I think there is potential for an advising match if you are admitted.
+If you are unsure whether you want to apply, feel free to reach out. When you do, please include your CV/resume, an unofficial academic transcript, and an explanation of your interest in research (see the "Advice for getting in touch" section below). The more detail you can give about how your experience and/or research interests align with my work, the better. I cannot assess your likelihood of being admitted to the program, but I can recommend that you apply if I think there is potential for an advising match if you are admitted.
 
 #### MS student already at UMass Lowell
 
