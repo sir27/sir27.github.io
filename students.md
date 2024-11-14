@@ -51,7 +51,7 @@ When you email me to ask about available research positions, the likelihood of r
 
 In all of my work, **I work directly with humans** to design and study technology that fits usefully into people's lives.
 
-Here are some heuristics to check if you're not sure if what you want to do is a good fit for my lab:
+Here are some heuristics to check to see if your interests are a good fit for my lab:
 
 - If your research idea doesn't involve humans at all, it is not a good fit for my lab.
 - If your idea involves humans only to the extent that they generate data that systems can use, it's highly unlikely that it is a good fit.
@@ -59,13 +59,13 @@ Here are some heuristics to check if you're not sure if what you want to do is a
 
 I receive a lot of emails from students who say they are interested in areas that I do not do work in. I try to respond to these students to point them in a helpful direction, but I cannot get to all of them. It's much more likely you'll receive a response if it is immediately evident from your email that you have a **genuine and informed interest in HCI** ("I want to make user-friendly systems" is generally not enough).
 
-**3. Your experience and skills**
+**2. Your experience and skills**
 
-A wide variety of skills -- including several that fall outside the usual umbrella of CS -- are useful for doing HCI research. Different projects also require different skills. Projects in our lab need front-end designers and shop engineers who can make and test prototypes, creatives to help bring possible futures to life, competent programmers to build systems and make robots do things, and "people people" who can conduct in-depth interviews with participants.
+A wide variety of skills -- including several that fall outside the usual umbrella of CS -- is useful for doing HCI research. Different projects also require different skills. Projects in our lab need front-end designers and shop engineers who can make and test prototypes, creatives to help bring possible futures to life, competent programmers to build systems and make robots do things, and "people people" who can conduct in-depth interviews with participants.
 
 I am usually open to exploring new research topics that students propose to me so long as they are somehow related to people, intelligent systems, and user-centered design. Therefore, there is no overarching, particular profile I'm looking for when I scan student emails. It is helpful (and may at times be necessary) to have some experience -- which can be anything from a hobby project to a class project to a published paper -- with one or more of the tasks involved in my research, such as experimental design, prototyping, or stakeholder interviews.
 
-**2. Timing**
+**3. Timing**
 
 At the very busy beginning and end of the semester, I (like many students and professors) deal with a large volume of email and a lot of start-up and wind-down tasks. While I aim to process everything that comes into my inbox, emails are more likely to get lost in the shuffle during these time periods. The same is true when I'm traveling (and I try to set up autoresponders to reflect this).
 
