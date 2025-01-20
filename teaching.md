@@ -11,7 +11,7 @@ permalink: /teaching/
 - [UML course catalog](https://www.uml.edu/catalog/courses/comp/5270)
 - [Course website](https://uml-hci.github.io/comp5270-s25/)
 
-  Previous semesters: Spring 2024
+Previous semesters: Spring 2024
 
 #### Fall 2024
 
