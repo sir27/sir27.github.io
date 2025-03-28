@@ -15,7 +15,7 @@ I am an **Assistant Professor** in the [Miner School of Computer and Information
 
 My research interests include artificial intelligence (AI) embodiment in socially complex interactions, robot re-embodiment, personalized experiences with AI agents in services, and designing for human-AI collaboration. I use behavioral studies and research-through-design, as well as qualitative and quantitative methods, to explore topics in these areas.
 
-I received my Ph.D. in human-computer interaction from the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu/) at Carnegie Mellon University, where I was advised by Jodi Forlizzi and Aaron Steinfeld. My research has been supported by the National Science Foundation and a [NASA fellowship](https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstrf-2019/).
+I received my Ph.D. in human-computer interaction from the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu/) at Carnegie Mellon University, where I was advised by Jodi Forlizzi and Aaron Steinfeld. My graduate research was supported by a [NASA fellowship](https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstrf-2019/).
 
 A full list of publications is available on my [CV](/assets/files/SReig-full%20cv-2024june.pdf) and on my [Google Scholar](https://scholar.google.com/citations?user=bn1UzGAAAAAJ) page.
 
