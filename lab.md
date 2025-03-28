@@ -21,6 +21,6 @@ Lab renovation progress:
 
 ⬜️ FLOORS! ☑️
 
-🚪 DOORS! 🔜
+🚪 DOORS! ☑️
 
 <sub>_Disney owns the gif content; I am merely borrowing it for fun_</sub>
