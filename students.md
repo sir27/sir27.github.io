@@ -17,9 +17,7 @@ I am recruiting students for projects on all of these topics. If you are a prosp
 
 #### Prospective PhD student
 
-> **Special note for students interested in a Fall 2025 start:**  While UMass Lowell admits graduate students on a rolling basis, I strongly recommend that students who are interested in working with me apply by **February 20, 2025** to leave ample time for review.
-
-I am looking for PhD students to start in Fall 2025.  To apply to work with me, you will need to [submit an application to the university](https://www.uml.edu/sciences/computer-science/programs/doctorate.aspx) and mention my name in your application. In your statement, discuss your specific research interests (remember: it’s a starting point, not a promise!) and describe why you want to pursue a PhD. 
+To apply to work with me, you will need to [submit an application to the university](https://www.uml.edu/sciences/computer-science/programs/doctorate.aspx) and mention my name in your application. In your statement, discuss your specific research interests (remember: it’s a starting point, not a promise!) and describe why you want to pursue a PhD. 
 
 Most PhD students have a small amount of relevant (i.e., HCI, robotics, or HCI-/robotics-adjacent) research experience before they apply. Not all do, and this is not a requirement.
 
