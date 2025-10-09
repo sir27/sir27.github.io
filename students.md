@@ -4,14 +4,7 @@ title: For Students
 permalink: /students/
 ---
 
-The following are areas I am working in in 2024-2025:
-
-- Identity presentation for language-capable robots in smart environments
-- Healthy aging and the future of tech support
-- Situational awareness, identity, and well-being in the age of distributed collaboration
-- Creativity, collaboration, and expressivity with generative AI
-
-I am recruiting students for projects on all of these topics. If you are a prospective student, here are some ways to work with me (categorized by level):
+I am not planning to take on any new PhD students in 2025-2026. 
 
 ### If you are a(n)...
 
