@@ -4,7 +4,7 @@ title: For Students
 permalink: /students/
 ---
 
-I am not planning to take on any new PhD students in 2025-2026. 
+I am not planning to take on any new PhD students in 2026-2027. 
 
 ### If you are a(n)...
 
