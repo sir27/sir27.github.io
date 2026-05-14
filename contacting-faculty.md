@@ -5,7 +5,7 @@ permalink: /contacting-faculty
 
 **How to contact faculty**
 
-If you are a student or a prospective student interested in doing research with a faculty member, don't be afraid to reach out. We don't bite!
+If you are a student or a prospective student interested in doing research with a faculty member, don't be afraid to reach out. We're happy to hear from you! 
 
 That said, academia has some communication norms that can be hard to navigate, especially for students and prospective students who have little or no prior exposure to them. The goal of this page is to make some of those norms explicit. My hope is that it will help you recognize that there is some strategy to the task of finding a research position, avoid spending your time and effort on a strategy that is bad (e.g., sending long emails with lots of [fluff](https://compose.ly/for-writers/fluff-in-writing) to dozens and dozens of faculty) and instead spend it on a strategy that is good.
 
@@ -50,7 +50,7 @@ In general, it is a good idea to be explicit and concise about what you're looki
 
 #### Should I email a bunch of professors with the same text?
 
-No! It is extremely obvious when students copy-paste the same message, attempting to cover several different topical bases in one go, and send it out indescriminately. Messages like this are easy to categorize as "mass-email spam" and are swiftly ignored. If you are genuinely interested in working with multiple professors, you can of course work off of an email template that you create for yourself, but your message needs to send make it clear that you have put more thought into reaching out than simply discovering the professor's existence and looking at their keywords.
+No! It is extremely obvious when students copy-paste the same message, attempting to cover several different topical bases in one go, and send it out indescriminately. Messages like this are easy to categorize as "mass-email spam" and are swiftly ignored. If you are genuinely interested in working with multiple professors, you can of course work off of an email template that you create for yourself, but your message needs to make it clear that you have put more thought into reaching out than simply discovering the professor's existence and looking at their keywords.
 
 ---
 

@@ -5,7 +5,7 @@ permalink: /lab/
 nav_order: 2
 ---
 
-I lead a yet-to-be-named research lab at UMass Lowell. Broadly, we seek to understand how robots, conversational agents, and other emerging technologies can be appropriately integrated into socially complex scenarios. Our activities consist of:
+I lead the People, Intelligence, Environments, Robots, and Social outcomes (PIERS) Lab at UMass Lowell. Broadly, we seek to understand how robots, conversational agents, and other emerging technologies can be appropriately integrated into socially complex scenarios. Our activities consist of:
 
 - **studying** how robots' behaviors influence humans' trust, acceptance, and decision-making,
 - **simulating** interactions in future smart environments to determine how people and robots might work productively and live well within them, and
@@ -21,6 +21,6 @@ Lab renovation progress:
 
 ⬜️ FLOORS! ☑️
 
-🚪 DOORS! 🔜
+🚪 DOORS! ☑️
 
 <sub>_Disney owns the gif content; I am merely borrowing it for fun_</sub>
